@@ -5,7 +5,7 @@ unions, intersections and more complex types. And `interface` can be delcared mu
 delcare types multiple times.
 
 ## What is the use of the keyof keyword in TypeScript? Provide an example.
-The `keyof` keyowrd is used create union of keys of an object type. For example
+The `keyof` keyowrd is used to create union of keys of an object type. For example
 ```typescript
 interface User {
     id    : number;
